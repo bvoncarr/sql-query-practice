@@ -3,7 +3,7 @@
 
 ### Round 1
 
-Connect to the LikeyPix database in Beekeeper, and answer the following questions:
+Connect to the LikeyPix database in Beekeeper, and answer the following questions::::
 
 1. Write a query that returns all Users
 
